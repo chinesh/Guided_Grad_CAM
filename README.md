@@ -9,6 +9,7 @@ However grad-cam can be used with any other CNN models. Just modify convolution 
 
 See [python notebook](https://github.com/insikk/Grad-CAM-tensorflow/blob/master/gradCAM_tensorflow_demo.ipynb) to see demo of this repository.
 >To use VGG networks in this demo, the npy files for [VGG16 NPY](ftp://mi.eng.cam.ac.uk/pub/mttt2/models/vgg16.npy) has to be downloaded.
+
 wget https://www.dropbox.com/s/8a8rei66f72um4i/vgg16.npy
 
 
